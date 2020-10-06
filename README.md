@@ -1,4 +1,13 @@
-### Hi there 👋
+## About 🙂
+Hey, I'm Wyatt! 👋 I'm a student, programmer, designer, and a soon-to-be startup founder. I enjoy tinkering with Linux machines, designing user interfaces and learning new things. I'm proficient in HTML + CSS, Javascript, Python, and a little Bash. Currently learning React & MongoDB.
+
+## Get in touch 📫
+I'm designing websites right now, with reasonable prices and the latest standards in front-end development.
+- ✉ Email: [wyatt@wyattsell.com](mailto:wyatt@wyattsell.com)
+- 🎮 Discord : [wyatt#0570](https://dsc.bio/wyatt)
+- 🏀 Dribbble : [wyattsell](https://dribbble.com/wyattsell)
+
+
 
 <!--
 **wyatt/wyatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
