@@ -1,5 +1,5 @@
 ## About 🙂
-Hey, I'm Wyatt! 👋 I'm a student, programmer, designer, and a soon-to-be startup founder. I enjoy tinkering with Linux machines, designing user interfaces and learning new things. I'm proficient in HTML + CSS, Javascript, Python, and a little Bash. Currently learning React & MongoDB.
+Hey, I'm Wyatt! 👋 I'm a student, designer, and a soon-to-be startup founder. I enjoy tinkering with Linux machines, designing user interfaces and learning new things. I'm proficient in HTML + CSS, Javascript, Python, and a little Bash. Currently learning React & MongoDB.
 
 ## Get in touch 📫
 I'm designing websites right now, with reasonable prices and the latest standards in front-end development.
