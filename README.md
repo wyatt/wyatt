@@ -28,4 +28,5 @@ Hey, I'm Wyatt! 👋 I'm a programmer and student who enjoys making cool stuff u
 - ⚙ Machine learning - I know zero about machine learning, and it seems to be full of endless possibilities.
 
 ## Certifications
-My projects below are the best display of my technological expertise, but for the sake of being thorough, I have a [FCC certification in Responive Web Design](https://www.freecodecamp.org/certification/wyattsell/responsive-web-design)
+My projects below are the best display of my technological expertise, but for the sake of being thorough, here are my certifications:
+- 🖼 [FCC certification in Responive Web Design](https://www.freecodecamp.org/certification/wyattsell/responsive-web-design)
