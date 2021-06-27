@@ -18,7 +18,7 @@ Hey, I'm Wyatt! 👋 I'm a programmer and student who enjoys making cool stuff u
 - ⏳ Redis - Efficient tool for data caching.
 - ✅ Trello/Linear - Project organisation at its finest.
 - 🚅 Git + GitHub - Obviously...
-- 🐧 Linux CLI - The OS for most server deployments.
+- 🐧 Linux - The OS for most server deployments.
 - ⚡ Supabase - A very fresh Firebase alternative.
 - 🧇 Soldering - A useful skill to have for any hardware-based project.
 
