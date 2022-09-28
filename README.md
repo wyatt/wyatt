@@ -1,5 +1,5 @@
 ## About 🙂
-Hey, I'm Wyatt! 👋 I'm a programmer and student who enjoys making cool stuff using technology. I've got a [blog](https://medium.com/wyattsell) which I'm working on, where you'll find me talking about projects I've done and things I find interesting. Currently I'm trying to learn more about hardware and eletronics but software is where I'm most familiar. Below you can see the tools and languages I have experience with and the ones I want to learn. Oh also... I'm available to hire for web development! Get in touch with one of the links below.
+Hey I'm Wyatt 👋 I'm a programmer and student who enjoys making cool stuff using technology. I'm a massive productivity nerd, and I've released my own revision app called [Revisio](https://revisio.app). I love tinkering with electronics, and learning new things - here's my [blog](https://wyattsell.blog) where I document my various projects and inventions.
 
 ## Get in touch 📫
 - ✉ Email : [wyatt@wyattsell.com](mailto:wyatt@wyattsell.com)
