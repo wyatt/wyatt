@@ -1,1 +1,1 @@
-<img width="600" src="snoopy-typing.gif">
+<img width="500" src="snoopy-typing.gif">
